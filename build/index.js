@@ -105,5 +105,5 @@ var InfinityWrapper = function (WrapperComponent) {
         _a;
 };
 
-exports.InfinityWrapper = InfinityWrapper;
+exports.default = InfinityWrapper;
 //# sourceMappingURL=index.js.map

@@ -59,7 +59,7 @@ export default InfinityWrapper(Wrapper)
 ## Props
 |Name|Type|Default|Description|
 |:--|:--:|:-----:|:----------|
-|dataSource|`number`|`required`|Interval delay in second|
+|dataSource|`T[]`|`required`|data displayed on page/table|
 |hasNextPage|`boolean`|`required`|If there is next page|
 |rowPerPage|`number`|`undefined`|row lines displayed per page (only for table)|
 |loadMore|`()=>void`|`required`|When scroll down will invoke loadMore function|

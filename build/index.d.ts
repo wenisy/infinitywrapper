@@ -1,2 +1,2 @@
 import InfinityWrapper from './components/InfinityWrapper';
-export { InfinityWrapper };
+export default InfinityWrapper;

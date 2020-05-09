@@ -99,5 +99,5 @@ var InfinityWrapper = function (WrapperComponent) {
         _a;
 };
 
-export { InfinityWrapper };
+export default InfinityWrapper;
 //# sourceMappingURL=index.es.js.map
